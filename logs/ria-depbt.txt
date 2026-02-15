@@ -8,3 +8,4 @@
 12:15:12 | rating=4068
 12:15:13 | hash2=977b6a707dbf59f982aa5eecbf3941aaa8bd8fe9aeb9eb98ad22313b019b141d
 13:15:09 | depth=239637
+13:15:12 | rating=1891
